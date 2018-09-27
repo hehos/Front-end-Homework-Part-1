@@ -1,0 +1,14 @@
+README file is required.
+For POPUP DIALOG
+• Must implement it yourself
+• Get dismissed by clicking either top right “Close” icon or “Cancel” button
+• Also get dismissed when clicking anywhere outside of it
+• Clear content of the Resourc
+For backend data
+• Use the data API which provided by us to get or change data.
+• The data API is provided by the mock server which in the attachment
+• Please unzip the “mock-server” file and follow the steps in README.md to run the mock server
+• UI must be implemented as the design of Cruise mentioned above .
+• The layout should look CONSISTENTLY for IE11+, latest Chrome and Firefox.
+• Tools like Webpack/Grunt/Gulp, Babel, SASS/LESS and test libraries are ALLOWED
+Javascript Unit Test
